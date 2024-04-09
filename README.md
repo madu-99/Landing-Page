@@ -1,5 +1,3 @@
-##Screenshot
-![](./Screenshot_1.png)
 
 ##Users should be able to:
 
