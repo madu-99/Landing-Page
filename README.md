@@ -11,5 +11,5 @@
 As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
 
 - [GitHub Pages]([https://pages.github.com/](https://github.com/madu-99/Landing-Page))
-- [Netlify](https://www.netlify.com/)
+- [Netlify]([https://landingpage78.netlify.app/])
 
